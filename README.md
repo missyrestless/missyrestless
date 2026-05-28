@@ -12,17 +12,24 @@
   <img width="600" src="https://raw.githubusercontent.com/missyrestless/missyrestless/assets/github-snake-dark.svg" />
 </p>
 
-## Hi, I'm Missy Angel, also known as Missy Restless. You can just call me Missy.
+## Hi, I'm Missy
 
-I am a resident of Second Life specializing in scripted agents (bots), online tracking, AVsitter customizations, and LSL utilities.
+Thanks for visiting my Github profile! Please star any of my repositories you find interesting or useful.
 
-## Current projects include
+I am a resident of Second Life specializing in scripted agents (bots), online tracking,
+AVsitter customizations, and LSL utilities.
+
+In Second Life I am Missy Angel, also known as Missy Restless. You can just call me Missy.
+
+## Current Projects
 
 - [BotControl](https://github.com/slbotcontrol/BotControl), control Corrade and LifeBots bots from the Unix/Linux command line
 - [LifeBots Control Panel](https://github.com/slbotcontrol/LifeBotsControlPanel), LSL library enabling command and control of LifeBots bots via the LifeBots API
 - [Discord IM Online Tracker](https://github.com/missyrestless/OnlineTracker), tracks online status of any avatar with messages to Discord and/or IM to owner
 - [AVsequences](https://github.com/missyrestless/AVsequences), custom AVsitter AVsequence configurations for Second Life products
 - [Second Life Bot Control](https://github.com/slbotcontrol), Github organization for Second Life bot control projects
+
+I also maintain a [Library of LSL scripts and utilities](https://github.com/missyrestless/LSL).
 
 ## I'm an Open Source Developer, Dancer, and Second Life Resident
 
