@@ -12,9 +12,9 @@
   <img width="600" src="https://raw.githubusercontent.com/missyrestless/missyrestless/assets/github-snake-dark.svg" />
 </p>
 
-## Hi, I'm Missy
+## Hi, I'm Missy Angel, also known as Missy Restless. You can just call me Missy.
 
-I am also known as Missy Angel in Second Life, a member of the Angels family.
+I am a resident of Second Life specializing in scripted agents (bots), online tracking, AVsitter customizations, and LSL utilities.
 
 ## Current projects include
 
