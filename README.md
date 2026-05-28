@@ -36,6 +36,21 @@ I am a resident of Second Life specializing in scripted agents (bots), online tr
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Mermaid](https://www.youtube.com/watch?v=o5mKRgiECiA)
+- [MirrziLu at Cobalt Blue](https://www.youtube.com/watch?v=7DR6BpYK9yE)
+- [Minka DJ at Club Heaven](https://www.youtube.com/watch?v=o-CRTuBKBG4)
+- [Where Light Remains Scene 01](https://www.youtube.com/watch?v=tHWDEeiLdb8)
+- [Costa Rica Horseback](https://www.youtube.com/watch?v=0XslwfGMtfw)
+- [New Surfboard](https://www.youtube.com/watch?v=kzedYyQXpF8)
+- [Cuming Soon Boxes](https://www.youtube.com/watch?v=Ehn9CazTuYs)
+- [Missy Explores Happy Clam Island](https://www.youtube.com/watch?v=YwRMe9r3YXU)
+- [Truth &amp; Beauty Lab Smart Ring &amp; Smart Cuff](https://www.youtube.com/watch?v=cu1A83X18E0)
+- [Nelvean at Organica](https://www.youtube.com/watch?v=uUmtXVCHTAg)
+- [Truth &amp; Beauty Lab &quot;Heart Follower&quot;](https://www.youtube.com/watch?v=KDT9b053qAI)
+- [Truth &amp; Beauty Lab Rotating Sign](https://www.youtube.com/watch?v=CdjGr86cOgo)
+- [Crazy Dancing at Organica](https://www.youtube.com/watch?v=2LpdrZJExh4)
+- [Organica Floating Dance Venue](https://www.youtube.com/watch?v=zX1LTlZ4VLU)
+- [T3-M4 Pandorabot](https://www.youtube.com/watch?v=WqvGNsHvWzA)
 <!-- YOUTUBE:END -->
 
 ---
