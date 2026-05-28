@@ -43,6 +43,14 @@ I am a resident of Second Life specializing in scripted agents (bots), online tr
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Alternate Outfits Folder Method](https://missyrestless.blogspot.com/2026/04/an-alternate-outfits-folder-method.html)
+- [Eredita Body Morphs / Deformers](https://missyrestless.blogspot.com/2026/01/eredita-body-morphs-deformers.html)
+- [How To Create Beautiful Mesh Avatars For Free](https://missyrestless.blogspot.com/2025/10/how-to-create-beautiful-mesh-avatars.html)
+- [Isla Tartan Skirt from Mimikri](https://missyrestless.blogspot.com/2012/03/isla-tartan-skirt-from-mimikri.html)
+- [Truth &amp; Beauty Lab Answer Board](https://missyrestless.blogspot.com/2012/03/truth-beauty-lab-answer-board.html)
+- [New Truth &amp; Beauty Lab Products 2/2012](https://missyrestless.blogspot.com/2012/02/new-truth-beauty-lab-products-22012.html)
+- [Truth &amp; Beauty Lab &quot;Heart Follower&quot;](https://missyrestless.blogspot.com/2012/02/truth-beauty-lab-heart-follower.html)
+- [Rebranding as Truth &amp; Beauty Lab](https://missyrestless.blogspot.com/2012/02/rebranding-as-truth-beauty-lab.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
