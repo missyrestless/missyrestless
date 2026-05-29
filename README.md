@@ -51,13 +51,6 @@ I also maintain a [Library of LSL scripts and utilities](https://github.com/miss
 - [New Surfboard](https://www.youtube.com/watch?v=kzedYyQXpF8)
 - [Cuming Soon Boxes](https://www.youtube.com/watch?v=Ehn9CazTuYs)
 - [Missy Explores Happy Clam Island](https://www.youtube.com/watch?v=YwRMe9r3YXU)
-- [Truth &amp; Beauty Lab Smart Ring &amp; Smart Cuff](https://www.youtube.com/watch?v=cu1A83X18E0)
-- [Nelvean at Organica](https://www.youtube.com/watch?v=uUmtXVCHTAg)
-- [Truth &amp; Beauty Lab &quot;Heart Follower&quot;](https://www.youtube.com/watch?v=KDT9b053qAI)
-- [Truth &amp; Beauty Lab Rotating Sign](https://www.youtube.com/watch?v=CdjGr86cOgo)
-- [Crazy Dancing at Organica](https://www.youtube.com/watch?v=2LpdrZJExh4)
-- [Organica Floating Dance Venue](https://www.youtube.com/watch?v=zX1LTlZ4VLU)
-- [T3-M4 Pandorabot](https://www.youtube.com/watch?v=WqvGNsHvWzA)
 <!-- YOUTUBE:END -->
 
 ---
