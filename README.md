@@ -43,6 +43,7 @@ I also maintain a [Library of LSL scripts and utilities](https://github.com/miss
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jada Light Show](https://www.youtube.com/watch?v=c0L15828lg0)
 - [Mermaid](https://www.youtube.com/watch?v=o5mKRgiECiA)
 - [MirrziLu at Cobalt Blue](https://www.youtube.com/watch?v=7DR6BpYK9yE)
 - [Minka DJ at Club Heaven](https://www.youtube.com/watch?v=o-CRTuBKBG4)
@@ -50,7 +51,6 @@ I also maintain a [Library of LSL scripts and utilities](https://github.com/miss
 - [Costa Rica Horseback](https://www.youtube.com/watch?v=0XslwfGMtfw)
 - [New Surfboard](https://www.youtube.com/watch?v=kzedYyQXpF8)
 - [Cuming Soon Boxes](https://www.youtube.com/watch?v=Ehn9CazTuYs)
-- [Missy Explores Happy Clam Island](https://www.youtube.com/watch?v=YwRMe9r3YXU)
 <!-- YOUTUBE:END -->
 
 ---
