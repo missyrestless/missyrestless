@@ -24,10 +24,11 @@ In Second Life I am Missy Angel, also known as Missy Restless. You can just call
 ## Current Projects
 
 - [Truth &amp; Beauty Privacy Shield](https://github.com/missyrestless/PrivacyShield#readme), scripted smart land divider and privacy shield for Second Life
+- [Truth &amp; Beauty Donation Board](https://github.com/missyrestless/DonationBoard#readme), accepts donations, splits tips, manages parcel music stream URL
+- [Discord IM Online Tracker](https://github.com/missyrestless/OnlineTracker#readme), tracks online status of any avatar with messages to Discord and/or IM to owner
 - [BotControl](https://github.com/slbotcontrol/BotControl), control Corrade and LifeBots bots from the Unix/Linux command line
 - [LifeBots Control Panel](https://github.com/slbotcontrol/LifeBotsControlPanel), LSL library enabling command and control of LifeBots bots via the LifeBots API
-- [Discord IM Online Tracker](https://github.com/missyrestless/OnlineTracker), tracks online status of any avatar with messages to Discord and/or IM to owner
-- [AVsequences](https://github.com/missyrestless/AVsequences), custom AVsitter AVsequence configurations for Second Life products
+- [AVsequences](https://github.com/missyrestless/AVsequences#readme), custom AVsitter AVsequence configurations for Second Life products
 - [Second Life Bot Control](https://github.com/slbotcontrol), Github organization for Second Life bot control projects
 
 I also maintain a [Library of LSL scripts and utilities](https://github.com/missyrestless/LSL).
