@@ -29,13 +29,14 @@ In Second Life I am Missy Angel, also known as Missy Restless. You can just call
 - [BotControl](https://github.com/slbotcontrol/BotControl), control Corrade and LifeBots bots from the Unix/Linux command line
 - [LifeBots Control Panel](https://github.com/slbotcontrol/LifeBotsControlPanel), LSL library enabling command and control of LifeBots bots via the LifeBots API
 - [AVsequences](https://github.com/missyrestless/AVsequences#readme), custom AVsitter AVsequence configurations for Second Life products
+- [Weather Machine](https://github.com/missyrestless/WeatherMachine#readme), particle weather system with rainfall, lightning, thunder, wind, snow, and atmospheric sound
 - [Second Life Bot Control](https://github.com/slbotcontrol), Github organization for Second Life bot control projects
 
 I also maintain a [Library of LSL scripts and utilities](https://github.com/missyrestless/LSL).
 
 ## I'm an Open Source Developer, Dancer, and Second Life Resident
 
-- 🔭 I’m currently working on SL bot control projects and online tracking systems
+- 🔭 I’m currently working on SL bot control projects
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sunbathing at local nude beaches and reading Murakami novels
